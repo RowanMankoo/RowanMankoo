@@ -1,11 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rowan Mankoo
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey! Nice to see you
 ====================================================================================================================================
 
-Data Scientist
---------------
+Welcome to my page\
+I'm Rowan, a Data Scientist currently employed at OMD EMEA and based in London, UK.
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [rowan.mankoo@gmail.com](mailto:rowan.mankoo@gmail.com)
 
 ### Skills
 
@@ -18,7 +16,6 @@ Data Scientist
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/RowanMankoo/blob/main/Moby-logo.webp?raw=true" width="50.3" height="36" alt="docker" /></a>
 </p>
 
-https://github.com/RowanMankoo/RowanMankoo/blob/main/postgreSQL.png?raw=true
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/rowan-mankoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.github.com/RowanMankoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
@@ -36,6 +33,9 @@ https://github.com/RowanMankoo/RowanMankoo/blob/main/postgreSQL.png?raw=true
 
 <p align="center">
     <a href="https://github.com/RowanMankoo/Lipreading" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62399186/137826151-0dece4b5-3a00-4e00-bc16-0fe6227b51eb.png" width="600" height="349" alt="lipreading" /></a>
-    <a href="https://github.com/RowanMankoo/Gesture-Volume-Control" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/Gesture-Volume-Control/blob/main/Example.gif?raw=true" width="600" height="349" alt="gesture volume control" /></a>
     <a href="https://github.com/RowanMankoo/Lipreading" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62399186/137826788-bdf0a0b2-4510-4fc6-9ac9-51a077dec023.png" width="600" height="200" alt="lipreading" /></a>
+    <a href="https://github.com/RowanMankoo/Gesture-Volume-Control" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/Gesture-Volume-Control/blob/main/Example.gif?raw=true" width="600" height="349" alt="gesture volume control" /></a>
 </p>
+
+* ✉️  You can contact me at [rowan.mankoo@gmail.com](mailto:rowan.mankoo@gmail.com)
+
