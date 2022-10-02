@@ -38,5 +38,5 @@ https://github.com/RowanMankoo/RowanMankoo/blob/main/postgreSQL.png?raw=true
 <a href="https://github.com/RowanMankoo/Lipreading" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62399186/137826151-0dece4b5-3a00-4e00-bc16-0fe6227b51eb.png" width="600" height="349" alt="lipreading" /></a>
 <a href="https://github.com/RowanMankoo/Gesture-Volume-Control" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/Gesture-Volume-Control/blob/main/Example.gif?raw=true" width="600" height="349" alt="gesture volume control" /></a>
 
-<a href="https://github.com/RowanMankoo/Lipreading" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62399186/137826788-bdf0a0b2-4510-4fc6-9ac9-51a077dec023.png" width="1200" height="300" alt="lipreading" /></a>
+<a href="https://github.com/RowanMankoo/Lipreading" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62399186/137826788-bdf0a0b2-4510-4fc6-9ac9-51a077dec023.png" width="600" height="200" alt="lipreading" /></a>
 
