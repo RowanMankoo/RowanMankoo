@@ -14,16 +14,14 @@ Data Scientist
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/RowanMankoo/blob/main/postgreSQL.png?raw=true" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/RowanMankoo/blob/main/R_logo.png?raw=true" width="46.5" height="36" alt="PostgreSQL" /></a>
-<a href="https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=emea-gb-all-en-bkws-all-all-trial-e-gcp-1011340&utm_content=text-ad-none-any-DEV_c-CRE_500227884417-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP%20~%20General%23v3-KWID_43700060384861696-aud-1651755614772%3Akwd-87853815-userloc_1006886&utm_term=KW_gcp-NET_g-PLAC_&gclid=CjwKCAjw7eSZBhB8EiwA60kCW9wTcmpnMKtHIeq7S1Qvu0febyULaHOqpe6YLirK8siU49Ov3zqqoxoCttEQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/RowanMankoo/blob/main/gcp.png?raw=true" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=emea-gb-all-en-bkws-all-all-trial-e-gcp-1011340&utm_content=text-ad-none-any-DEV_c-CRE_500227884417-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP%20~%20General%23v3-KWID_43700060384861696-aud-1651755614772%3Akwd-87853815-userloc_1006886&utm_term=KW_gcp-NET_g-PLAC_&gclid=CjwKCAjw7eSZBhB8EiwA60kCW9wTcmpnMKtHIeq7S1Qvu0febyULaHOqpe6YLirK8siU49Ov3zqqoxoCttEQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/RowanMankoo/blob/main/gcp.png?raw=true" width="44" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/RowanMankoo/blob/main/Moby-logo.webp?raw=true" width="50.3" height="36" alt="PostgreSQL" /></a>
-
-`
 </p>
 
 https://github.com/RowanMankoo/RowanMankoo/blob/main/postgreSQL.png?raw=true
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RowanMankoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rowan-mankoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/rowan-mankoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.github.com/RowanMankoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -35,10 +33,7 @@ https://github.com/RowanMankoo/RowanMankoo/blob/main/postgreSQL.png?raw=true
 
 <a href="http://www.github.com/RowanMankoo"><img src="https://activity-graph.herokuapp.com/graph?username=RowanMankoo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
+<b>Snippets from my most popular projects</b>
 
-<div width="100%" align="center"><a href="https://github.com/RowanMankoo/Lipreading" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RowanMankoo&repo=Lipreading&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RowanMankoo/StockPricePrediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RowanMankoo&repo=StockPricePrediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/RowanMankoo/Gesture-Volume-Control" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RowanMankoo&repo=Gesture-Volume-Control&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62399186/137826151-0dece4b5-3a00-4e00-bc16-0fe6227b51eb.png" width="46.5" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/Gesture-Volume-Control/blob/main/Example.gif?raw=true" width="36" height="36" alt="PostgreSQL" /></a>
