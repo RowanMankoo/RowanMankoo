@@ -13,9 +13,11 @@ Data Scientist
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/RowanMankoo/RowanMankoo/blob/main/postgreSQL.png?raw=true" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 </p>
 
-
+https://github.com/RowanMankoo/RowanMankoo/blob/main/postgreSQL.png?raw=true
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RowanMankoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rowan-mankoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
